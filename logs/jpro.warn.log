@@ -1,0 +1,1 @@
+2020-05-18 12:03:01,482 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-9 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
